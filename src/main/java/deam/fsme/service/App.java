@@ -1,4 +1,4 @@
-package deam.inc.fsme;
+package deam.fsme.service;
 
 /**
  * Hello world!
