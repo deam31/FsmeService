@@ -1,4 +1,4 @@
-package deam.inc.fsme;
+package deam.fsme.service;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
